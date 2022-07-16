@@ -11,8 +11,8 @@ const CategoryItem = ({item}) => {
         <Container>
             <Image/>
             <Info>
-                <Title/>
-                <Button/>
+                <Title>Features</Title>
+                <Button>Get It</Button>
             </Info>
         </Container>
     );
