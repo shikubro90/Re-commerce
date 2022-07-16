@@ -1,7 +1,7 @@
 import { ArrowLeftOutlined, ArrowRightOutlined } from "@material-ui/icons";
 import { useState } from "react";
 import styled from "styled-components";
-import sliderImg1 from '../assets/shopifyimage.png'
+// import sliderImg1 from '../assets/shopifyimage.png'
 import {sliderItem} from '../data.js'
 
     const Container = styled.div`
